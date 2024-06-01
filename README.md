@@ -1,3 +1,7 @@
+![alt text](https://github.com/harrihdyt/take_home_test_pi/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-01%20at%2019.40.28.png?raw=true)
+![alt text](https://github.com/harrihdyt/take_home_test_pi/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-06-01%20at%2019.40.19.png?raw=true)
+
+
 # take_home_test_pi
 
 A new Flutter project.
